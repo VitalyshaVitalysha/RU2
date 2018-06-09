@@ -1,0 +1,72 @@
+Интересные статьи:
+https://t.me/iznytri
+https://t.me/blackaws
+https://blog.darkach.com/
+https://2ch.hk/ ( https://t.me/dvachannel )
+Актуальные прокси сервера:
+https://telegram.veesecurity.com/
+https://www.socks-proxy.net/
+Ежедневно обновляемые списки прокси серверов:
+https://2ip.ru/proxy/
+http://foxtools.ru/Proxy
+Мосты и линии Tor:
+https://bridges.torproject.org/options
+ОСь для анонимной работы:
+https://www.whonix.org/
+Бесплатный VPN и блокировщик рекламмы:
+https://rus.windscribe.com/
+https://freevpn.me/accounts/
+Де-кодер ссылок:
+https://www.urldecoder.org/
+Сервер самоуничтожающихся посланий:
+http://enotegggr635n4lw.onion/
+http://cryptorffquolzz6.onion/
+Ftp сервера:
+http://www.mmnt.net/
+Дарк вэб,зашифрованная передача файлов
+https://www.2daygeek.com/onionshare-secure-way-to-sha..
+Ресурсы i2p:
+http://xp1usy.blogspot.ch/2011/04/i2p.html
+Рандом:
+http://dirnxxdraygbifgc.onion/
+Поиск в Онион и i2p:
+http://gjobqjj7wyczbqie.onion/
+http://msydqstlz2kzerdg.onion/
+http://zlal32teyptf4tvi.onion/
+Ежедневное обновление ссылок на ресурсы:
+https://www.deepdotweb.com/2013/10/28/updated-llist-o..
+FB2 Lib (http://fb2lib3argrtulnw.onion) — русскоязычная пиратская библиотека.
+Словесный Богатырь (http://sblib3fk2gryb46d.onion) — библиотека, в которой можно найти редкие русскоязычные книги, изданные в 2000-х и 90-х годах.
+Флибуста (http://flibustahezeous3.onion/a/17394)
+Разная тематика -наука,химия (http://b-ok.xyz/)
+WikiLeaks (http://gzq32tx5ckw3uodx.onion) — поиск по архиву слитых в сеть секретных документов.
+GlobalLeaks (http://rlfaozz3xxpouhig.onion) — сервис для анонимного слива компромата.
+Какие то пароли против бана:
+http://bugmenot.com/
+Tor машины:
+https://www.dan.me.uk/tornodes
+Децентрализованная сеть
+https://geti2p.net/ru/docs/applications/supported
+https://freenetproject.org/download.html#autostart
+Рутрекер зеркала:
+MainTracker.org
+https://torrents.me/proxy/rutracker-org/
+http://rutracker.us/forum/viewtopic.php?t=5403116
+https://github.com/RutrackerOrg/rutracker-proxy/relea..
+Условно к зеркалам можно ещё отнести rutracker.lib и rutracker.i2p
+http://rutrackerripnext.onion/ (в сети tor).
+http://rutracker.wiki/
+https://h_t_t_p_s.rutracker.org.3s3s.org
+h_t_t_p_s.rutracker.org.3s3s.org
+
+Мосты Tor:
+obfs4
+obfs4 151.182.101.32:46119 7C9E1B908CD7FA0B05AAB9FAE9BA31596D8309B3 cert=qjTIwinP9kViz89yFQLth3L7YwvyrUzn8tnqQdgCq/HuFIBF2hi044HRxqAkIzLJ4JdBSw iat-mode=0
+obfs4 192.241.212.191:9443 041E46F9546C281DCDC1E8E84BFBC7B53036B655 cert=4c6SCpIw9zwmPjGOx3gsomT04bPfDAQI6i9VD+IsIVjYq16mmc0iOt6hsSfRioQWKAPyDA iat-mode=0
+obfs3
+obfs3 163.172.161.87:34827 70C720468D057BBF9F59081506D660CE87CA4AD0
+obfs3 128.199.98.7:49082 1827F2B89095B555B9B1C4606F6E7861602861E6
+Линии Tor:
+163.172.161.87:8443 70C720468D057BBF9F59081506D660CE87CA4AD0
+77.116.174.126:443 13512AA45B843DA209DFB6ECDC147C74EC443520
+78.223.49.143:443 E69D7EA100353059D7E952449875989D34332BE6
